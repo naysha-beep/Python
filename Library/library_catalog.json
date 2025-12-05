@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Harry Potter",
+        "author": "JK Rowling",
+        "isbn": "1",
+        "status": "available"
+    },
+    {
+        "title": "Matilda",
+        "author": "Rohl Dahl",
+        "isbn": "2",
+        "status": "available"
+    }
+]
