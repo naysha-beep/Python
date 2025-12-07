@@ -179,3 +179,4 @@ yearly_resample = df.resample("YE")[columns_to_analyze].agg(["mean", "min", "max
 print(yearly_resample)
 
 
+
